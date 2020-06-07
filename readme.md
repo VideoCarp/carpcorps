@@ -6,6 +6,7 @@
 [Click here to visit VideoCarp's MCPEDL page.](https://mcpedl.com/user/VideoCarp1)
 # Become a patron
 [Click here to visit the patron store](https://donatebot.io/checkout/649140930934210560)
+[Click here for info regarding being a patron](https://github.com/VideoCarp/carpcorps#patronship-info)
 # Join us
 To join us and become a creator for Carp Corps, you need to join our discord (linked above) and DM VideoCarp#1591,
 there is a join us channel in the discord server which you can refer to if you want but all the text in it is here.
