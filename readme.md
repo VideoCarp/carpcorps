@@ -1,7 +1,9 @@
+[![Discord Chat](https://img.shields.io/discord/649140930934210560.svg)](https://discord.gg/GhHbMvb)  
+
 # Join our subreddit
    [Click here to join](https://reddit.com/r/CarpCorps)<br />
 # Join our discord server
-[Click here to join our discord server](https://discord.gg/GhHbMvb)<br />
+[Discord](https://discord.gg/GhHbMvb)<br />
 # VideoCarp's MCPEDL Page
 [Click here to visit VideoCarp's MCPEDL page.](https://mcpedl.com/user/VideoCarp1)<br />
 # Become a patron
