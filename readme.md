@@ -1,5 +1,7 @@
 [![Discord Chat](https://img.shields.io/discord/649140930934210560.svg)](https://discord.gg/GhHbMvb)  
-
+# Information
+This is the open-source repository for Carp Corps.
+Site: [Link](https://videocarp.github.io/carpcorps/)
 # Join our subreddit
    [Click here to join](https://reddit.com/r/CarpCorps)<br />
 # Join our discord server
