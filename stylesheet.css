@@ -34,6 +34,8 @@ a{color:#3484fd;}
   padding: 5px;
 }
 
+sbh{font-size:24px;} /* Sidebar header */
+
 .pagefull {
     display: block;
     width: 100vw;
