@@ -4,6 +4,6 @@ WIP
 
 <span class="sidebar">
   
-  Hello World!
+  <a href="https://videocarp.github.io/carpcorps/mcpedl">MCPEDL</a>
 
 </span>
