@@ -32,3 +32,9 @@ a{color:#3484fd;}
   overflow-x: hidden; 
   padding: 5px;
 }
+
+.pagefull {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+}
