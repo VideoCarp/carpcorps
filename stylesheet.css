@@ -20,7 +20,7 @@ body {
   overflow-x: hidden; 
   padding: 5px;
 }
-
+a{color:#3484fd;}
 @media screen and (prefers-color-scheme: light) {
   body {
     background-color: white;
@@ -35,10 +35,11 @@ body {
     top: 0; 
     left: 0;
     background-color: #cfcfcf;
-    color: #3484fd;
+    color: #214f94;
     overflow-x: hidden; 
     padding: 5px;
   }
+  a{color:214f94;}
 }
 
 .cntr {
@@ -47,7 +48,7 @@ body {
   margin-right: auto;
   width: 50%
 }
-a{color:#3484fd;}
+
 
 
 sbh{font-size:24px;} /* Sidebar header */
