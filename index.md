@@ -4,6 +4,6 @@ WIP
 
 <span class="sidebar">
   
-  [Hello World!](.)
+  <a href=".">Hello World!</a>
 
 </span>
